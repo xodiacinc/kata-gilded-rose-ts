@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Gilded Rose kata in TypeScript",
   "scripts": {
-    "test": "jest --watchAll"
+    "test": "jest",
+    "watch": "jest --watchAll"
   },
   "license": "MIT",
   "private": true,
